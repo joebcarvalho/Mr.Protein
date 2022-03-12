@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+}
+.navbar-brand{
+    font-family: 'EB Garamond', serif;
+}
+.welcome{
+    font-family: 'PT Serif', serif;
+    border: 2px solid white;
+    border-radius: 35px;
+    text-align: center;
+    
+}
+.about{
+    border: 2px solid white;
+    border-radius: 18px;
+    text-align: center;
+}
+
+.display-3{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.click{
+    text-align: center;
+}
+
+.contact{
+        border: 2px solid white;
+        border-radius: 18px;
+        text-align: center;
+    }
+    
+    
+    .footer{
+        text-align: center;
+    }
+    #abhi{
+
+text-decoration: none;
+    }
+    
+
+
